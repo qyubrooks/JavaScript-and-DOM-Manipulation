@@ -1,4 +1,4 @@
-# JavaScript and DOM Manipulation: UFO Sighting
+# JavaScript and DOM Manipulation: UFO sighting
 
 ## Automatic Table and Date Search
 
@@ -10,5 +10,6 @@
 
 * Use a date form in my HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
-https://github.com/qyubrooks/JavaScript-and-DOM-Manipulation
+
+![image](image/UFO_sighting)
 
